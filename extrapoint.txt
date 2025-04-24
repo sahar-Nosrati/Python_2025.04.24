@@ -1,0 +1,1 @@
+- shallow copy -> A shallow copy occurs when you copy the reference of an object to a new variable. Only the top-level properties are copied, while nested objects or arrays still reference the original memory location

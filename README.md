@@ -1,1 +1,2 @@
-# Python_2025.04.24
+# Study Python
+  - Finished list w3schools
